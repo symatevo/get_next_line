@@ -1,9 +1,3 @@
-Sure, here's the description of the "get_next_line" project formatted for a GitHub README:
-
-# get_next_line
-
-The "get_next_line" project is a fundamental project at 42 that challenges you to create a function capable of reading a file line by line. The function should be able to handle multiple file descriptors and provide a convenient way to read from files without losing data between subsequent calls.
-
 ## Summary
 
 The main objective of this project is to implement a function that reads a line from a file descriptor and returns the line as a string. With each successive call, the function should read the next line until the end of the file is reached.
